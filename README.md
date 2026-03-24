@@ -95,6 +95,19 @@ The system consists of two main components:
 
 * Store attendance in CSV file
 * Display in Streamlit dashboard
+### 6. Visual Elements
+- Streamlit Dashboard
+<img width="891" height="466" alt="image" src="https://github.com/user-attachments/assets/4f28138b-6bd9-4018-8a68-d29e3bdd831c" />
+- Contacting the developer
+<img width="771" height="530" alt="image" src="https://github.com/user-attachments/assets/224eb60b-a81e-4b47-8d1a-ec86fc014efd" />
+- I have used pabbly webhook
+<img width="797" height="462" alt="image" src="https://github.com/user-attachments/assets/5ddbad94-0f1b-4fb0-b00a-360fd3bc94f1" />
+- Chatbot feature
+<img width="1125" height="646" alt="image" src="https://github.com/user-attachments/assets/58750160-9b8a-4038-9103-05480480d52c" />
+- Table and Attendance Marking
+<img width="467" height="662" alt="image" src="https://github.com/user-attachments/assets/3da37248-7a2f-43cc-be10-8dee6aa46c93" />
+-Algorithm
+<img width="241" height="290" alt="image" src="https://github.com/user-attachments/assets/1cb221c0-1799-4085-a4c4-45353dea2f86" />
 
 ---
 
